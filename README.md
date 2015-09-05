@@ -3,7 +3,7 @@ PawneeMail
 
 By Quinton Johnson
 
-Pawnee mail is a mock email client with a back-end of randomly generated messages. Includes working JavaFX interface as well as buttons to send and sort.
+PawneeMail is a mock email client with a back-end of randomly generated messages. Includes working JavaFX interface as well as buttons to send and sort.
 
 It demonstrates the following concepts:
   - JavaFX
