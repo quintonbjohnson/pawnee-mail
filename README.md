@@ -10,7 +10,7 @@ It demonstrates the following concepts:
   - Class inheritance
   - Polymorphism
 
-Building/Compiling/Deployment
+Building / Compiling / Deployment
 -----------------------------
 
 - Mailbox: the class that represent a Mailbox object. Allows the user to move and remove messages between mailboxes.
