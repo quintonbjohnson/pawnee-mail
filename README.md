@@ -1,6 +1,8 @@
 PawneeMail
 ===================
 
+![PawneeMail](http://i.imgur.com/wOQbUsx.png)
+
 By Quinton Johnson
 
 PawneeMail is a mock email client with a back-end of randomly generated messages. Includes working JavaFX interface as well as buttons to send and sort.
