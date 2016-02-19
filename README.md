@@ -1,7 +1,7 @@
 PawneeMail
 ===================
 
-![PawneeMail](http://i.imgur.com/OfSPIr0.png)
+![PawneeMail](http://i.imgur.com/Fu5Bp0z.png)
 
 By QuintonJ
 
